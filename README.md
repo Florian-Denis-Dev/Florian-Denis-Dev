@@ -7,7 +7,7 @@
 ### 🛠️ Compétences
 
 - **Langages de programmation :** JavaScript, HTML, CSS
-- **Frameworks et bibliothèques :** React, Node.js, SCSS 
+- **Frameworks et bibliothèques :** Next, Typescript, React, Node.js, SCSS 
 - **Conception :** Adobe photoshop, Adobe illustrator, Figma
 - **Technologies émergentes :** Blockchain, Intelligence Artificielle (IA)
 - **Outils de versionnement :** Git, GitHub
