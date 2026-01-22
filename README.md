@@ -1,4 +1,4 @@
-# 👋 HI, je suis Florian D.
-## D comme Développeur et Designer
+# 👋 Hi, i'm Florian D.
+## D for Dev & Designer
 
 ### 🛠️ Readme en construction
